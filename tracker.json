@@ -4,8 +4,7 @@
     "comment": "",
     "allyCode": "562652846",
     "userIcon": ":dna:",
-    "tagIdOnDrop": "392717135878553610",
-    "tagIdOnClimb": ""
+    "discordId": "392717135878553610",
   },
   {
     "name": "JangoLR",
@@ -13,7 +12,6 @@
     "allyCode": "989168441",
     "userIcon": ":poop:",
     "tagIdOnDrop": "",
-    "tagIdOnClimb": ""
   },
   {
     "name": "Kal Coltorn",
@@ -21,7 +19,6 @@
     "allyCode": "789899994",
     "userIcon": "",
     "tagIdOnDrop": "",
-    "tagIdOnClimb": ""
   },
   {
     "name": "Punky",
@@ -29,7 +26,6 @@
     "allyCode": "161657513",
     "userIcon": "",
     "tagIdOnDrop": "",
-    "tagIdOnClimb": ""
   },
   {
     "name": "Helryn 6173",
@@ -37,7 +33,6 @@
     "allyCode": "673188585",
     "userIcon": "",
     "tagIdOnDrop": "",
-    "tagIdOnClimb": ""
   },
   {
     "name": "Richard dumas",
@@ -75,7 +70,7 @@
     "name": "虎牙 (noodles)",
     "comment": "",
     "allyCode": "646728824",
-    "userIcon": ":poop:",
+    "userIcon": ":poop:(noodles)",
     "tagIdOnDrop": "",
     "tagIdOnClimb": ""
   },
@@ -140,8 +135,9 @@
     "comment": "",
     "allyCode": "885697558",
     "userIcon": "",
+    "discordId": "549284081448255493",
     "tagIdOnDrop": "",
-    "tagIdOnClimb": ""
+    "tagIdOnClimb": "",
   },
   {
     "name": "Jumentous",
@@ -267,7 +263,8 @@
     "name": "Onas Quinn",
     "comment": "",
     "allyCode": "815121216",
-    "userIcon": "",
+    "userIcon": ":space_invader:",
+    "discordId": "732256729806405693",
     "tagIdOnDrop": "",
     "tagIdOnClimb": ""
   },
@@ -304,10 +301,10 @@
     "tagIdOnClimb": ""
   },
   {
-    "name": "Granola Paca",
+    "name": "Grandola Paca",
     "comment": "",
     "allyCode": "198721774",
-    "userIcon": "",
+    "userIcon": ":poop:",
     "tagIdOnDrop": "",
     "tagIdOnClimb": ""
   },
@@ -315,7 +312,7 @@
     "name": "Sia Granta",
     "comment": "",
     "allyCode": "181922427",
-    "userIcon": "",
+    "userIcon": ":poop:",
     "tagIdOnDrop": "",
     "tagIdOnClimb": ""
   },
