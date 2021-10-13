@@ -363,5 +363,13 @@
     "userIcon": ":poop:",
     "tagIdOnDrop": "",
     "tagIdOnClimb": ""
+  },
+  {
+    "name": "GOAT",
+    "comment": "",
+    "allyCode": "156581896",
+    "userIcon": "",
+    "tagIdOnDrop": "",
+    "tagIdOnClimb": ""
   }
 ]
