@@ -411,5 +411,13 @@
     "userIcon": ":face_with_monocle:",
     "tagIdOnDrop": "",
     "tagIdOnClimb": ""
+  },
+  {
+    "name": "GoIrish",
+    "comment": "",
+    "allyCode": "541565732",
+    "userIcon": "",
+    "tagIdOnDrop": "",
+    "tagIdOnClimb": ""
   }
 ]
