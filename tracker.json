@@ -458,5 +458,13 @@
     "userIcon": "",
     "tagIdOnDrop": "",
     "tagIdOnClimb": ""
+     },
+  {
+    "name": "Burg Caldonian",
+    "comment": "",
+    "allyCode": "618578298",
+    "userIcon": ":eyes:",
+    "tagIdOnDrop": "",
+    "tagIdOnClimb": ""
   }
 ]
