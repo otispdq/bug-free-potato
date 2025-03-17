@@ -484,6 +484,14 @@
     "tagIdOnClimb": ""
      },
   {
+    "name": "Drys",
+    "comment": "",
+    "allyCode": "512919383",
+    "userIcon": "",
+    "tagIdOnDrop": "",
+    "tagIdOnClimb": ""
+     },
+  {
     "name": "Burg Caldonian",
     "comment": "",
     "allyCode": "618578298",
